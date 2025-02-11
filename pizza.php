@@ -27,7 +27,7 @@
     }
 
     echo "<br>";
-    echo "Autor: dacomo" . "<br>";
+    echo "Autor: mamogo" . "<br>";
     ?>
 </body>
 </html>
