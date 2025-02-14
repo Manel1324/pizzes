@@ -29,6 +29,6 @@
     echo "<br>";
     echo "Autor: mamogo" . "<br>";
     ?>
-<a href="pizza.html">Retorna al formulari de selecció d’ingredients2</a>
+<a href="pizza.html">Retorna al formulari de selecció d’ingredients3</a>
 </body>
 </html>
